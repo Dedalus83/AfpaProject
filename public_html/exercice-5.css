@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "buffied";
+	src: url('police/buffied.ttf');
+}
+@font-face {
+	font-family: "starjedi";
+	src: url('police/starjedi.ttf');
+}
+@font-face {
+	font-family: "pricedown";
+	src: url('police/pricedown-bl.ttf');
+}
+
+.starjedi{
+    font-family: "starjedi";
+}
+
+.pricedown{
+    font-family: "pricedown";
+}
+
+h1{
+    font-family: "buffied";
+}

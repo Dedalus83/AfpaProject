@@ -1,0 +1,10 @@
+.error-label{
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left: 130px;
+}
+
+.error{
+    color: red;
+}

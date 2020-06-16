@@ -1,0 +1,49 @@
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+@media screen and (min-width: 200px) and (max-width: 500px){
+    div{
+        background-color: red;
+        height: 450px;
+    }
+    .verte{
+        display: none;
+    }
+    .orange{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1599px){
+    div{
+        background-color: orange;
+        height: 450px;
+    }
+    .verte{
+        display: none;
+    }
+    .rouge{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    div{
+        background-color: green;
+        height: 450px;
+    }
+    .rouge{
+        display: none;
+    }
+    .orange{
+        display: none;
+    }
+}
+
+
+
+
+
